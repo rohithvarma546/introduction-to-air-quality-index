@@ -1,1 +1,1 @@
-# introduction-to-air-quality-index
+# Introduction-to-air-quality-index
